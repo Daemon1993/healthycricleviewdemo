@@ -7,11 +7,11 @@
 - 默认模式 每次都是重新开始绘制
 
 
-![默认模式 每次都重新绘制](https://github.com/Daemon1993/healthycricleviewdemo/blob/master/gif/2.gif)
+![默认模式 每次都重新绘制](https://github.com/Daemon1993/healthycricleviewdemo/blob/master/gif/1.gif)
   
 - 开启连续模式 增加模式 beginContinue(true)
 
-![开启连续  beginContinue(true); ](https://github.com/Daemon1993/healthycricleviewdemo/blob/master/gif/1.gif)
+![开启连续  beginContinue(true); ](https://github.com/Daemon1993/healthycricleviewdemo/blob/master/gif/3.gif)
 
 
 - 基本思路
