@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         healthyProgressView = (DHealthyProgressView) findViewById(R.id.simple);
 
-        //healthyProgressView.beginContinue(true);
+        healthyProgressView.beginContinue(true);
 
         healthyProgressView.setInterpolator(new AccelerateInterpolator());
 
