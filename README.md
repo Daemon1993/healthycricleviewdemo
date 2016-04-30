@@ -15,6 +15,7 @@
 
 
 - 基本思路
+
 因为在让进度里面存在别的控件 比如 文本 比如 ImageView
 
 就让整个自定义View实现RelativeLayout 
