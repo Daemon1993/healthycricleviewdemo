@@ -29,3 +29,6 @@
 然后 给 新设置的progress加一个动画  跟着动画的过程 来用 progressPaint 来绘制弧度 invalidate()方法通知draw 更新界面 直到动画完成 
  
 代码不多  300行左右   感兴趣的 可以看看  
+
+
+[简书地址  ](http://www.jianshu.com/p/355482f72c78)
